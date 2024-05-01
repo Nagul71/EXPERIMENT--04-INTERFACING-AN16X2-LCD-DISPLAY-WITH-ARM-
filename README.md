@@ -133,9 +133,6 @@ We are now at the last part of step by step guide on how to simulate STM32 proje
 15. Double click on the the MCU part to open settings. Next to the Program File option, give full path to the Hex file generated using STM32Cube IDE. Then set the external crystal frequency to 8M (i.e. 8 MHz). Click OK to save the changes.
 16. click on debug and simulate using simulation as shown below 
 ## CIRCUIT DIAGRAM 
-![image](https://user-images.githubusercontent.com/36288975/233857974-bda6200e-4f88-4e7b-b189-4da80210fa23.png)
-
-
 ## STM 32 CUBE PROGRAM :
 ```c
 /* USER CODE BEGIN Header */
